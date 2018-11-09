@@ -4,3 +4,4 @@
 .. toctree::
 
    1-1-introduction
+   1-2-before-you-begin
